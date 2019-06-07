@@ -1,0 +1,16 @@
+.dub
+.dub.selections.json
+docs.json
+__dummy.html
+docs/
+/hunt-xml
+hunt-xml.so
+hunt-xml.dylib
+hunt-xml.dll
+hunt-xml.a
+hunt-xml.lib
+hunt-xml-test-*
+*.exe
+*.o
+*.obj
+*.lst

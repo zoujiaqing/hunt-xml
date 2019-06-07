@@ -1,0 +1,6 @@
+name "hunt-xml"
+description "Xml library for DLang"
+authors "zoujiaqing"
+copyright "Copyright © 2019, zoujiaqing"
+license "Apache-2.0"
+dependency "hunt" version="~>1.2.0"
